@@ -1,0 +1,3 @@
+<odoo>
+    <menuitem id="menu_hospital_management" name="zydus Hospital" sequence="1"/>
+</odoo>
